@@ -1,0 +1,19 @@
+{
+  "name": "react-pwa",
+  "version": "1.0.0",
+  "description": "build some react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farsi-bilna/react-mdl.git"
+  },
+  "author": "farsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farsi-bilna/react-mdl/issues"
+  },
+  "homepage": "https://github.com/farsi-bilna/react-mdl#readme"
+}
